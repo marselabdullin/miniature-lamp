@@ -4,6 +4,7 @@ import css from './App.module.scss';
 import logo from './logo.svg';
 
 export default function App() {
+  test2;
   return (
     <div className={css.App}>
       <header className={css.AppHeader}>
